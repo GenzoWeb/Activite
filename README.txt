@@ -1,0 +1,3 @@
+Voici le fichier pour la présentation de mon projet.
+
+Pour l'instant je ne sais pas ce que je vais faire encore...
